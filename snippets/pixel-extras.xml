@@ -39,6 +39,7 @@
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="pixel" />
   <project path="vendor/lawnicons" name="vendor_lawnicons" remote="pixel-ge" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="pixel-ge" />
+  <project path="packages/apps/Matlog" name="packages_apps_Matlog" remote="pixel-ge" /> 
 
   <!-- Prebuilts repos -->
   <project path="prebuilts/extract-tools" name="prebuilts_extract-tools" remote="pixel" clone-depth="1" />
