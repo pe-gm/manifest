@@ -27,6 +27,7 @@
   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="pixel-ge" />
 
   <!-- Packages repos -->
+  <project path="packages/apps/Debloater" name="Debloater" remote="pixel-ge" />
   <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="pixel" />
   <project path="packages/apps/FMRadio" name="packages_apps_FMRadio" remote="pixel" />
   <project path="packages/apps/RepainterService" name="packages_apps_RepainterService" remote="pixel-plus" />
