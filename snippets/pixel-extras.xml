@@ -2,6 +2,7 @@
 <manifest>
 
   <!-- External repos -->
+  <project path="external/colorkt" name="external_colorkt" remote="pixel-ge" />
   <project path="external/faceunlock" name="external_faceunlock" remote="pixel-gitlab-self-hosted" />
   <project path="external/bson" name="external_bson" remote="pixel" />
   <project path="external/connectivity" name="external_connectivity" remote="pixel" />
@@ -10,6 +11,7 @@
   <project path="external/libnfc-nxp" name="external_libnfc-nxp" remote="pixel" />
   <project path="external/ntfs-3g" name="external_ntfs-3g" remote="pixel" />
   <project path="external/tinyxml" name="external_tinyxml" remote="pixel" />
+  <project path="external/themelib" name="external_themelib" remote="pixel-ge" />
 
   <!-- General repos -->
   <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="pixel-ge" />
