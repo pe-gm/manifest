@@ -78,6 +78,7 @@
   <project path="kernel/configs" name="kernel_configs" remote="pixel" />
   <project path="manifest" name="manifest" remote="pixel-ge" />
   <project path="platform_testing" name="platform_testing" remote="pixel" />
+  <project path="libcore" name="libcore" remote="pixel-ge" />
 
   <!-- Hardware repos -->
   <project path="hardware/broadcom/libbt" name="hardware_broadcom_libbt" remote="pixel" />
