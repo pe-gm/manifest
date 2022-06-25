@@ -22,6 +22,7 @@
   <project path="hardware/broadcom/nfc" name="hardware_broadcom_nfc" remote="pixel" />
   <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="pixel" />
   <project path="hardware/lineage/livedisplay" name="hardware_lineage_livedisplay" remote="pixel-plus" />
+  <project path="hardware/xiaomi" name="hardware_xiaomi" remote="pixel-ge" />
 
   <!-- Packages repos -->
   <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="pixel" />
