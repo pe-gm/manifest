@@ -5,7 +5,10 @@
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/PixelExperience/manifest -b thirteen-plus
+repo init -u https://github.com/pe-gm/manifest -b thirteen
+
+# Lazy
+repo init --depth=1 -u https://github.com/pe-gm/manifest -b thirteen
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
